@@ -1,4 +1,4 @@
-# People_Counter-YOLOv8\
+# People_Counter-YOLOv8
 This code is a Python script that uses the YOLO (You Only Look Once) object detection algorithm to detect people in a video and counts the number of people passing through two predefined regions of interest. The script uses the YOLOv8 implementation provided by the ultralytics package to perform object detection.
 
 The script starts by importing necessary libraries such as OpenCV (cv2), cvzone, and the object detection model YOLOv8 from the ultralytics package. It then loads the input video and reads frames from it using OpenCV.
